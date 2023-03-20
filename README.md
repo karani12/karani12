@@ -3,7 +3,7 @@
 
 ### 💻 Software Engineer 💻
 
- 💖 Kotlin(spring), React, Python(flask), React Native, Typescript💖
+ 💖 Kotlin/Java(spring), React, Python(flask), React Native, Typescript💖
 
  🚒 Sometimes, Code requires some fire fighting🚒
 
