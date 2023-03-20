@@ -7,7 +7,7 @@
 
  🚒 Sometimes, Code requires some fire fighting🚒
 
- 🌎 Nairobi/Remote/GMT+3(flexible)🌎 
+ 🌎Remote/GMT+3(flexible)🌎 
 
  🌜 Open to work and collaborations🌜
 
