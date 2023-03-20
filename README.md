@@ -12,7 +12,7 @@
 
  ✖ Appreciates a healthy work-life balance ✖
 
- 💲 Fun fact: I am a construction cost consultant/ Quantity Surveyor💲
+ 💲 Fun fact: I am also construction cost consultant/ Quantity Surveyor💲
 
  📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/karani12/) 📫
 
