@@ -1,12 +1,13 @@
 <!-- A github profile info -->
 # Hi there, I'm Karani 👋
+
 ### 💻 Software Engineer 💻
 
  💖 Kotlin(spring), React, Python(flask), React Native, Typescript💖
 
  🚒 Sometimes, Code requires some fire fighting🚒
 
- 🌎 Nairobi/Remote/EAT Time🌎 
+ 🌎 Nairobi/Remote/GMT+3(flexible)🌎 
 
  🌜 Open to work and collaborations🌜
 
