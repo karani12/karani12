@@ -2,6 +2,8 @@
 # Hi there, I'm Karani 👋
 
 ### 💻 Software Engineer 💻
+    🚨 Open to new roles. 
+    Reach me @karanijohn018@gmail.com 
 
  💖 Kotlin/Java(spring), React, Python(flask), React Native, Typescript💖
 
