@@ -15,6 +15,8 @@
 
  ✖ Appreciates a healthy work-life balance ✖
 
+ ⚙️ Learning Rust ⚙️(soon I'll be building dev tools)
+
  💲 Fun fact: I am also a construction cost consultant/ Quantity Surveyor💲
 
  📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/karani12/) 📫
