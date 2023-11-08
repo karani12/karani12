@@ -6,8 +6,6 @@
     
   Reach me @karanijohn018@gmail.com 
 
- 💖 Kotlin, React, Python(flask), React Native, Typescript, Nest/Node💖
-
  🚒 Sometimes, Code requires some fire fighting🚒
 
  🌎 Nairobi/Remote/GMT+3(flexible)🌎 
